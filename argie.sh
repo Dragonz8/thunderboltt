@@ -510,7 +510,7 @@ echo '{
   "up_mbps": 100,
   "down_mbps": 100,
   "disable_udp": false,
-  "obfs": "argie",
+  "obfs": "boy",
   "auth": {
     "mode": "external",
     "config": {
